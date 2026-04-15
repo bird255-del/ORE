@@ -1,3 +1,7 @@
+If you just want the program that works on Windows 11.
+Download ORE Alert.exe put it on your desktop and run it. 
+This was written using Visual Studio.
+
 I would love input on better ways to detect when the outlook reminder window is open. 
 or different graphics that can be displayed. 
 I am trying to keep the program small so it is not a resource hog. 
