@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ReminderWindow4\obj\Debug\ORE Alert.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ReminderWindow4\obj\Debug\ReminderWindow4.AboutORE.resources
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ReminderWindow4\obj\Debug\ReminderWindow4.ColorOptionsForm.resources
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ReminderWindow4\obj\Debug\ReminderWindow4.Form1.resources
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ReminderWindow4\obj\Debug\ORE Alert.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ReminderWindow4\obj\Debug\ORE Alert.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ORE Alert.exe.config
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ReminderWindow4\obj\Debug\ORE Alert.exe
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ReminderWindow4\obj\Debug\ORE Alert.pdb
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ORE Alert.exe
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ORE Alert.pdb
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ReminderWindow4\obj\Debug\ORE Alert.exe.config
+C:\Users\User\source\repos\OutlookReminder ORE V0.1\ReminderWindow4\obj\Debug\ORE_Alert.Properties.Resources.resources
